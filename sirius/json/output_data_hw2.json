@@ -1,0 +1,36 @@
+{
+    "24/02/2024 22:38:24": {
+        "total_users": 2,
+        "age": {
+            "0-18": 50.0,
+            "18-25": 0.0,
+            "25-45": 50.0,
+            "45-60": 0.0,
+            "60+": 0.0
+        },
+        "online": {
+            "less than two days": 0.0,
+            "a week": 0.0,
+            "a month": 0.0,
+            "six months": 50.0,
+            "more than six months": 50.0
+        }
+    },
+    "24/02/2024 22:41:57": {
+        "total_users": 2,
+        "age": {
+            "0-18": 50.0,
+            "18-25": 0.0,
+            "25-45": 50.0,
+            "45-60": 0.0,
+            "60+": 0.0
+        },
+        "online": {
+            "less than two days": 0.0,
+            "a week": 0.0,
+            "a month": 0.0,
+            "six months": 50.0,
+            "more than six months": 50.0
+        }
+    }
+}
